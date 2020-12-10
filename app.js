@@ -1,3 +1,5 @@
+// Built from AJAX
+
 const http = new easyHTTP;
 
 // Get Posts

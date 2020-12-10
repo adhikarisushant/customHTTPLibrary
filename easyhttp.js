@@ -1,3 +1,5 @@
+// Built from AJAX
+
 function easyHTTP() {
     this.http = new XMLHttpRequest();
 }
